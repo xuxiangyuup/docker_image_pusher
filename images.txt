@@ -1,1 +1,1 @@
-laoning666/synology-chat-bot
+open-webui/open-webui
